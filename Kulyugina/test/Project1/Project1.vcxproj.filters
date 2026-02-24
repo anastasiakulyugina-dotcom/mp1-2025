@@ -18,16 +18,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="рядыТейлора.c">
+    <ClCompile Include="Taylor.cpp">
       <Filter>Kulugina\Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="fTe.c">
-      <Filter>Kulugina\Исходные файлы</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="FTaylor.h">
-      <Filter>Kulugina\Файлы заголовков</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
