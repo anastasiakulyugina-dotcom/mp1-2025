@@ -8,7 +8,7 @@ T cos(T x, int ts) {
 
 	for (int n = 1; n <= ts; ++n) {
 		res += t;
-
+     
 		t *= -(x * x) / ((2 * n - 1)*(2 * n));
 	}
 	return res;
